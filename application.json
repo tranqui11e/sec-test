@@ -5,6 +5,12 @@
   "unreadCommentThreads": 0,
   "color": "#FFEFDB",
   "slug": "my-first-application",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
   "evaluationVersion": 2,
   "publishedModeThemeId": "61c57741db67aa7828fd7472",
   "editModeThemeId": "61c57741db67aa7828fd7472",
