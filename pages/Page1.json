@@ -25,10 +25,39 @@
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "children": []
+          "children": [
+            {
+              "widgetName": "Divider1",
+              "thickness": 2,
+              "displayName": "Divider",
+              "iconSVG": "/static/media/icon.cbe8f608.svg",
+              "topRow": 22,
+              "bottomRow": 26,
+              "parentRowSpace": 10,
+              "type": "DIVIDER_WIDGET",
+              "capType": "nc",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 8.8125,
+              "leftColumn": 20,
+              "key": "hv6wqmd4uq",
+              "dividerColor": "#EBEBEB",
+              "orientation": "horizontal",
+              "strokeStyle": "solid",
+              "rightColumn": 40,
+              "widgetId": "nqpam0ttwa",
+              "capSide": 0,
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "Divider1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
