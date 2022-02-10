@@ -7,6 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": "http://A.127.0.0.1.1time.169.254.169.254.1time.repeat.8f058b8.rebind.network"
       },
       "invalids": [],
